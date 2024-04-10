@@ -1,5 +1,5 @@
 # Canvas
 This project is an attempt to recreate the popular grading application Canvas.
 
-# Console App Increment Code Structure
-![BasicCodeStructure](BasicCodeStructure.drawio.png)
+# Why This Project is Closed Source
+This project is currently closed source due to academic restrictions. This project will become open source in the near future. For now this repository will only hold the precompiled version of the project. 
