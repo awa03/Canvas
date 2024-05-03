@@ -20,6 +20,9 @@ Major UI changes
 - Student Assignment Dialog Modified
 
 ****
+# DevLog's
+1) [Devlog #1](https://youtu.be/Es7gAbMhD7A?si=iwks6YtSfut6RhMM)
+2) [Devlog #2](https://youtu.be/4iSGf0Y7fVw?si=VV19f5JjS0DxhO9y)
 
 ****
 
