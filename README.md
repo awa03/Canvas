@@ -1,8 +1,8 @@
 # Canvas
 This project is an attempt to recreate the popular grading application Canvas.
 
-# Why This Project is Closed Source
-Its NOT! Checkout the newly released source code: [Canvas_App](https://github.com/awa03/Canvas_App)
+> [!NOTE]
+> Checkout the newly released source code: [Canvas_App](https://github.com/awa03/Canvas_App)
 
 # New Features - Latest Release
 
